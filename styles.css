@@ -1,0 +1,17 @@
+body {
+  background-color: #ffe0f0;
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  padding: 40px;
+}
+.card {
+  background: white;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  display: inline-block;
+}
+img {
+  width: 200px;
+  margin-top: 20px;
+}
